@@ -1,0 +1,3 @@
+C:/Users/GRINGO/Documents/pucp/4 ciclo/tp_2/creacion_remont/examen2 - copia/cmake-build-debug/CMakeFiles/examen2.dir
+C:/Users/GRINGO/Documents/pucp/4 ciclo/tp_2/creacion_remont/examen2 - copia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GRINGO/Documents/pucp/4 ciclo/tp_2/creacion_remont/examen2 - copia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
