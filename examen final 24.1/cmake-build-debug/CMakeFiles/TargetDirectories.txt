@@ -1,0 +1,3 @@
+C:/Users/GRINGO/Downloads/examen 2/examen final 24.1/cmake-build-debug/CMakeFiles/examen_final_24_1.dir
+C:/Users/GRINGO/Downloads/examen 2/examen final 24.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GRINGO/Downloads/examen 2/examen final 24.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
